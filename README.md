@@ -1,7 +1,7 @@
 <h1 align = "center">👋 Merhaba, ben Ahmet </h1>
 
-<p align = "center">Ben yazılım geliştirme sürecinin başında olan, kendini sürekli geliştiren ve farklı alanlarda projelerle deneyim kazanan bir geliştiriciyim. 
-Şu anda hem masaüstü, hem mobil hem de web tabanlı uygulamalar üzerinde çalışarak becerilerimi genişletiyorum.</p> 
+<p align = "center">Ben yazılım geliştirme sürecinin başında olan, kendini sürekli geliştiren ve farklı alanlarda projelerle deneyim kazanan bir geliştiriciyim.</p> 
+<p align = "center"> Şu anda hem masaüstü, hem mobil hem de web tabanlı uygulamalar üzerinde çalışarak becerilerimi genişletiyorum.</p> 
 
 ---
 
