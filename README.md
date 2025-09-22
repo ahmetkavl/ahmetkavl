@@ -8,9 +8,11 @@
 ## 🚀 Kullandığım Teknolojiler
 
 ### 🖥️ Programlama Dilleri
-- **C#** (Windows Forms, Konsol uygulamaları)
-- **Kotlin** (Android mobil geliştirme)
-- **HTML, CSS, JavaScript** (Frontend temel projeler)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🛠️ Araçlar ve Çerçeveler  
 - **Visual Studio**
