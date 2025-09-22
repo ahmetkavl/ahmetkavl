@@ -70,12 +70,4 @@ Statik mobilya tanıtım sitesi.
 - Açık kaynak projelere katkıda bulunmak  
 
 ---
-
-## 📬 Bana Ulaş
-
-- 📧 **E-posta:** ahmetkavll@icloud.com  
-- 💼 **LinkedIn:** [linkedin.com/in/ahmet](https://tr.linkedin.com/in/ahmet)  
-- 🐙 **GitHub:** [github.com/ahmetkavl](https://github.com/ahmetkavl)  
-
----
 ✨ Kod yazmayı öğrenirken her projeyi bir adım daha ileri taşımaya çalışıyorum. Gelişim yolculuğumda yeni teknolojiler öğrenmeye ve açık kaynak topluluklarına katkı vermeye açığım.
