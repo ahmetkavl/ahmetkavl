@@ -12,15 +12,10 @@ Ben yazılım geliştirme sürecinin başında olan, kendini sürekli geliştire
 - **Kotlin** (Android mobil geliştirme)
 - **HTML, CSS, JavaScript** (Frontend temel projeler)
 
-### 🛠️ Araçlar ve Çerçeveler
-- **.NET Framework**  
-- **Android Studio**  
-- **Visual Studio**  
+### 🛠️ Araçlar ve Çerçeveler  
+- **Visual Studio**
+- **Android Studio**
 - **Git & GitHub**  
-
-### 📊 Verilerle Çalışma
-- CSV ile veri kaydetme/okuma  
-- Basit finansal hesaplama algoritmaları  
 
 ---
 
