@@ -63,8 +63,8 @@ Statik mobilya tanıtım sitesi.
 
 - Daha kapsamlı ve **gerçek dünyada kullanılabilir projeler** geliştirmek  
 - **Backend teknolojileri** (Node.js, ASP.NET Core vb.) öğrenmek  
-- Mobil uygulamalarda **modern mimariler (MVVM, Jetpack Compose)** kullanmak  
-- Web projelerinde **responsive tasarım** ve **dinamik içerik yönetimi** eklemek  
+- Mobil uygulamalarda **modern mimariler** kullanmak  
+- Web projelerinde daha profesyonel bir hale gelmek
 - Açık kaynak projelere katkıda bulunmak  
 
 ---
